@@ -19,7 +19,7 @@ The purpose of this assignment is to learn about Git, GitHub, and GitHub Pages. 
 
 1. In the browser, create a GitHub Page for your GitHub repo. 
 
-1. Locally, edit this file to add the link to your GitHub Page **HERE**. Save.  
+1. Locally, edit this file to add the link to your GitHub Page **https://ds4200-sec2-f22.github.io/ic-01-wallacejef/**. Save.  
 
 1. Push your change to GitHub. If you open GitHub in the browser, you will see your updated version of this file.    
 
